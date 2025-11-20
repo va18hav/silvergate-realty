@@ -112,7 +112,7 @@ nav a:hover::after {
 .btn-primary {
     --btn-translateY: 0px;
     --btn-scale: 1;
-    background-image: var(--gradient);
+    background: gold;
     background-size: 180% 180%;
     background-position: left center;
     padding: 12px 24px;
