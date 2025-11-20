@@ -112,7 +112,7 @@ nav a:hover::after {
 .btn-primary {
     --btn-translateY: 0px;
     --btn-scale: 1;
-    background: whitesmoke;
+    background: gold;
     background-size: 180% 180%;
     background-position: left center;
     padding: 12px 24px;
